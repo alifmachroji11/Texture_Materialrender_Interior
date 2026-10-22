@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt809865fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dCaesar",
+  "kode": "GEN-RMN-GT809865FR",
+  "nama": "Granit mirip dCaesar Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 80.0,
+    "h": 80.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dcaesar/gen-rmn-gt809865fr/albedo.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 2413468,
+      "sha256": "3a9b6aa23c82fea8898d94234fec62ebbab859b05983fc98d6f6d0e0eb4515c3",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dcaesar/gen-rmn-gt809865fr/normal.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 5951591,
+      "sha256": "dd59870b729976abefa9bab9a180d6a708d338b91cdf611eb754a4ed4ceb1d60",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dcaesar/gen-rmn-gt809865fr/roughness.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 815025,
+      "sha256": "1f57e0c7c7280f892af73b12cf06e5188f5b6bbb1de99ee9c627532b46c0da0c",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt809865fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dCaesar",
+    "kode": "GT809865FR",
+    "nama": "dCaesar Grey",
+    "ukuran_produk": "80x80 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/dcaesar-80x80/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.04,
+    "selisih_spektrum_log10": 0.083,
+    "korelasi_maks": 0.095
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

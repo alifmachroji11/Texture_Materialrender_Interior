@@ -1,0 +1,54 @@
+{
+  "id": "gen-grn-003",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Marble Look",
+  "kode": "GEN-GRN-003",
+  "nama": "Granit Motif Marmer Putih Urat Abu",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Polished",
+  "warna": "Putih",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/marble-look/gen-grn-003/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 2748748,
+      "sha256": "1410fa1c9a2cbaaf9ebf60844d7de595314c67b1ca4543155c40d117d13224a4",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/marble-look/gen-grn-003/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 168127,
+      "sha256": "a46dc171f5d639ffdce9a240a10298b524d67d51b4a5672cd45b5c3307918e7d",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/marble-look/gen-grn-003/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 117565,
+      "sha256": "167d2bf25ef61f97a98a34ad7d4c90ada03931eea05d4da1c0c255f752f035e6",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-grn-003.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1002"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

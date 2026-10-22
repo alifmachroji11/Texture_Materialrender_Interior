@@ -1,0 +1,73 @@
+{
+  "id": "gen-tco-th909nt",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Woodgrain",
+  "kode": "GEN-TCO-TH909NT",
+  "nama": "HPL mirip Oakland Cascade",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "ukuran_fisik_perkiraan": true,
+  "finishing": null,
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th909nt/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 4309678,
+      "sha256": "951c466297fa71ff49d9404a7e74dc25aeb32cb57ecb2e72da2af8304490540c",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th909nt/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 7522865,
+      "sha256": "f4ec9e11046f2fad660f7d3de1bd91d1c111af189459f014b00a18bc8b6cf518",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th909nt/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 764353,
+      "sha256": "29c2bd4923f0c77e96cbc080bc0a421e245a7b1599a1db7ea18a6266f4db74ef",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.45,
+  "thumb": "thumbs/gen-tco-th909nt.webp",
+  "referensi": {
+    "merek": "TACO",
+    "seri": "Woodgrain",
+    "kode": "TH 909 NT",
+    "nama": "Oakland Cascade",
+    "ukuran_produk": "1220 mm x 2440 mm",
+    "finishing": null,
+    "url": "https://taco.co.id/en/products/laminates/essential-hpl/woodgrain/th-909-nt",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.02,
+    "selisih_spektrum_log10": 0.116,
+    "korelasi_maks": 0.145
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Skala motif diperkirakan dari shade card TACO; cek ulang ukuran serat.",
+  "dibuat": "2026-10-22"
+}

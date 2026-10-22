@@ -1,0 +1,73 @@
+{
+  "id": "gen-tco-th063sa",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Solid",
+  "kode": "GEN-TCO-TH063SA",
+  "nama": "HPL mirip Soya Bean",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "ukuran_fisik_perkiraan": true,
+  "finishing": null,
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/solid/gen-tco-th063sa/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 726867,
+      "sha256": "d2ed3828b916c16a1fdb9ab696f33fccc0878f68fb54c930b103fe280fead824",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/solid/gen-tco-th063sa/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 5181599,
+      "sha256": "4ed596950cf37d6b69c70c2c72b6200aba0c9f4ef7018829c53699d3572a3fd5",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/solid/gen-tco-th063sa/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 502456,
+      "sha256": "5f014d5560f7401f07532276afa1b41a38c96c9d5387f123a31623afbdd2c34d",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.45,
+  "thumb": "thumbs/gen-tco-th063sa.webp",
+  "referensi": {
+    "merek": "TACO",
+    "seri": "Solid",
+    "kode": "TH 063 SA",
+    "nama": "Soya Bean",
+    "ukuran_produk": "1220 mm x 2440 mm",
+    "finishing": null,
+    "url": "https://taco.co.id/en/products/laminates/essential-hpl/solid/th-063-sa",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.02,
+    "selisih_spektrum_log10": 0.14,
+    "korelasi_maks": 0.131
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Skala motif diperkirakan dari shade card TACO; cek ulang ukuran serat.",
+  "dibuat": "2026-10-22"
+}

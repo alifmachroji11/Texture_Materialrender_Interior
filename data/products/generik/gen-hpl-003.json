@@ -1,0 +1,54 @@
+{
+  "id": "gen-hpl-003",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Solid",
+  "kode": "GEN-HPL-003",
+  "nama": "HPL Solid Putih Doff",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Matte",
+  "warna": "Putih",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/solid/gen-hpl-003/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 2017894,
+      "sha256": "8dd816d0b4b23612840f8c207684f425acdb912b71ca959505693a01286525b9",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/solid/gen-hpl-003/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 2873470,
+      "sha256": "55d503944dcb632ef2514fb9719f8165b884d9ffa65c03a1faaa2f1e28825e87",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/solid/gen-hpl-003/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 146512,
+      "sha256": "1bb5a0bb1fe525253405e594fa4a71c83c7b5df8ac34c6b59c5aaa9904b7899a",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-hpl-003.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1007"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "gen-hpl-004",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Solid",
+  "kode": "GEN-HPL-004",
+  "nama": "HPL Solid Abu Antrasit",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Matte",
+  "warna": "Abu-abu tua",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/solid/gen-hpl-004/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 1187303,
+      "sha256": "b5b0bc5602a4912d631e84ec511c3910c9b6e0b189c4023329f01a20357ea4f8",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/solid/gen-hpl-004/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 2872725,
+      "sha256": "7048074546d555de3deebbf43b98ea95ec7e52ef4e273e295c8590a1bcfa7bec",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/solid/gen-hpl-004/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 146279,
+      "sha256": "3660d5b6b2ba9c1aed9eb13da58990128a2fc68253aa57d7f038a3160b33db4e",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-hpl-004.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1008"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

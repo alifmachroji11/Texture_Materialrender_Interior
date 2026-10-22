@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt809811fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dBrillante",
+  "kode": "GEN-RMN-GT809811FR",
+  "nama": "Granit mirip dBrillante Carrara",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 80.0,
+    "h": 80.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dbrillante/gen-rmn-gt809811fr/albedo.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 4533717,
+      "sha256": "c2879ad91caa481fad8e082dd337424cf3a50039fda434f26d665c26c317d968",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dbrillante/gen-rmn-gt809811fr/normal.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 5301132,
+      "sha256": "dc5ac5e23852142db855306e3280b39dcad3968bf0317733d703902aa87ca20c",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dbrillante/gen-rmn-gt809811fr/roughness.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 705866,
+      "sha256": "c420ce5bd9e7edc7896909f74fcfc414ddd38f6c06ca44b5c9fe4889e89c0a46",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt809811fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dBrillante",
+    "kode": "GT809811FR",
+    "nama": "dBrillante Carrara",
+    "ukuran_produk": "80x80 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/dbrillante/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "veined",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.07,
+    "selisih_kontras": 0.11,
+    "selisih_spektrum_log10": 0.073,
+    "korelasi_maks": 0.079
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (veined) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Urat marmer dibuat prosedural, sehingga bentuk dan letak urat berbeda dari produk asli. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "gen-grn-004",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Marble Look",
+  "kode": "GEN-GRN-004",
+  "nama": "Granit Motif Marmer Krem",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Matte",
+  "warna": "Krem",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/marble-look/gen-grn-004/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 3478539,
+      "sha256": "ea0371322acdaa46a561520297f50fd18c84cea01febfc0eb6f287d7d004a00a",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/marble-look/gen-grn-004/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 212638,
+      "sha256": "8afa5c92e8e44f3286ef66dabd5d791f16d6aa47b3725be9cf12f6feff9ccf24",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/marble-look/gen-grn-004/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 205995,
+      "sha256": "a4051744892f6242e1594d31f4390527f57b6e704bd6759034d2ee472974fc50",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-grn-004.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1003"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

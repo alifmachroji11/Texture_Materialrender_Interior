@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt809806fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dBasque",
+  "kode": "GEN-RMN-GT809806FR",
+  "nama": "Granit mirip dBasque Nero",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 80.0,
+    "h": 80.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dbasque/gen-rmn-gt809806fr/albedo.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 1293390,
+      "sha256": "0db28e6e63d95c28aaf6e7465ceaef624c1a5d19eed39c412e7ff630ef975a81",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dbasque/gen-rmn-gt809806fr/normal.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 2090121,
+      "sha256": "a4165b4f6611aa3871970008d29200486131e8a9fdd2fd8da5457f86d754e0dc",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dbasque/gen-rmn-gt809806fr/roughness.png",
+      "px_w": 1920,
+      "px_h": 1920,
+      "bytes": 326012,
+      "sha256": "b3764cd6a7ee72c08e0060abbf0e1bf6046433900724d939f89bd8cfd5e7dbae",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt809806fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dBasque",
+    "kode": "GT809806FR",
+    "nama": "dBasque Nero",
+    "ukuran_produk": "80x80 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/dbasque/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "veined",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.7,
+    "selisih_kontras": 0.81,
+    "selisih_spektrum_log10": 0.174,
+    "korelasi_maks": 0.059
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (veined) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Urat marmer dibuat prosedural, sehingga bentuk dan letak urat berbeda dari produk asli. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

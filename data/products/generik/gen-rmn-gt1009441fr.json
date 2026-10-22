@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt1009441fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dDurham",
+  "kode": "GEN-RMN-GT1009441FR",
+  "nama": "Granit mirip dDurham Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 100.0,
+    "h": 100.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/ddurham/gen-rmn-gt1009441fr/albedo.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 9018525,
+      "sha256": "f7f4d07da67025c02eb371aab8625dd145f8381cafc8711809b2f22285778075",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/ddurham/gen-rmn-gt1009441fr/normal.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 9948436,
+      "sha256": "d9da17450bfc3f608c9faf92e5b87e47124d9db8d8f58f739a4992788d567115",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/ddurham/gen-rmn-gt1009441fr/roughness.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 1379077,
+      "sha256": "fa4c5f3e74922031e12cfa463fdd24cb76daacf0b7dae533fad6c230754bf4ae",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt1009441fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dDurham",
+    "kode": "GT1009441FR",
+    "nama": "dDurham Grey",
+    "ukuran_produk": "100x100 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/ddurham/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.21,
+    "selisih_spektrum_log10": 0.099,
+    "korelasi_maks": 0.067
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

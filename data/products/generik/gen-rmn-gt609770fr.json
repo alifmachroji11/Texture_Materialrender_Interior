@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt609770fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Busan",
+  "kode": "GEN-RMN-GT609770FR",
+  "nama": "Granit mirip Busan Beige",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60.0,
+    "h": 60.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/busan/gen-rmn-gt609770fr/albedo.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 2698581,
+      "sha256": "227881cfdc720c51099cf16cfbce2a225baba470c2efd5304258d74ada848d22",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/busan/gen-rmn-gt609770fr/normal.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 3831104,
+      "sha256": "94b4383d06d541755c2065ca6277c7a60d662e3278bd3be283c542af8c60ebf4",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/busan/gen-rmn-gt609770fr/roughness.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 573673,
+      "sha256": "a6adde825d62d0f07ea8bf5941fc1bfcdcad6ed52e617cdf5c01fcbdf3f3931c",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt609770fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "Busan",
+    "kode": "GT609770FR",
+    "nama": "Busan Beige",
+    "ukuran_produk": "60x60 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/busan/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.16,
+    "selisih_spektrum_log10": 0.171,
+    "korelasi_maks": 0.007
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

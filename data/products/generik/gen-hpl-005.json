@@ -1,0 +1,54 @@
+{
+  "id": "gen-hpl-005",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Batu & Semen",
+  "kode": "GEN-HPL-005",
+  "nama": "HPL Motif Semen Ekspos",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Textured",
+  "warna": "Abu-abu",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/batu-semen/gen-hpl-005/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 3512650,
+      "sha256": "bfa2ddeed5369b633a8484f8a6ea1af4a1821e304f578934111d3b8c786a4a90",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/batu-semen/gen-hpl-005/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 721561,
+      "sha256": "5590a249112f70883783b23b30bbc2802e66ca77580913cbbd9e9c22f1727634",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/batu-semen/gen-hpl-005/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 280165,
+      "sha256": "41113e39561926597687382bfffcda18e6403f7a1c5b16995d9a7a9711c813ec",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-hpl-005.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1009"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

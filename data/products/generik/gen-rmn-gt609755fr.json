@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt609755fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Aberdeen",
+  "kode": "GEN-RMN-GT609755FR",
+  "nama": "Granit mirip Aberdeen Black",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60.0,
+    "h": 60.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/aberdeen/gen-rmn-gt609755fr/albedo.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 1962156,
+      "sha256": "b6725cf7c55e4b9ba77d65452314a6981db06981f9d3dd801dc8f7e60a71be1c",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/aberdeen/gen-rmn-gt609755fr/normal.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 3649788,
+      "sha256": "add8ec740d23aefe68c380f6e07849bb87d95f706320527cdc7d220381895228",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/aberdeen/gen-rmn-gt609755fr/roughness.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 515762,
+      "sha256": "dd314a1c41203eb86c6588c09c84d6b17e68acc4f7f9cc3f303f0148daf7a9b7",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt609755fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "Aberdeen",
+    "kode": "GT609755FR",
+    "nama": "Aberdeen Black",
+    "ukuran_produk": "60x60 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/aberdeen/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.17,
+    "selisih_spektrum_log10": 0.087,
+    "korelasi_maks": 0.01
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

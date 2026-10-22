@@ -1,0 +1,54 @@
+{
+  "id": "gen-grn-001",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Speckle",
+  "kode": "GEN-GRN-001",
+  "nama": "Granit Speckle Abu Muda",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Polished",
+  "warna": "Abu-abu",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/speckle/gen-grn-001/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 6300622,
+      "sha256": "669b5b19d020d1f9c0d74af5bb51de4f3fd71121979ad5eee6e4a04a3ebd94c9",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/speckle/gen-grn-001/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 3845799,
+      "sha256": "991e3186d5eb52f8313d0ad76c15e4cd9c32da83f28e86ed4ffc380638baf1c5",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/speckle/gen-grn-001/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 256674,
+      "sha256": "4c040a4c8fd9eea4bbb7dcf0dbdabb5047c1ee07d73f4a49c70101b8bce7da8f",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-grn-001.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1000"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}
