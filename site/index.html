@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Katalog Tekstur Interior</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <h1>Katalog Tekstur Interior</h1>
+    <p class="sub">Tekstur PNG generik (mirip produk asli) untuk SketchUp &amp; D5 Render</p>
+  </div>
+  <div class="controls">
+    <input id="q" type="search" placeholder="Cari kode/nama, termasuk kode produk asli (mis. GT609754FR, Oak)" autocomplete="off">
+    <select id="f-source" aria-label="Jenis tekstur">
+      <option value="">Semua tekstur</option>
+      <option value="mirip_produk">Mirip produk asli</option>
+      <option value="murni">Generik tanpa referensi</option>
+    </select>
+    <select id="f-finish" aria-label="Finishing"><option value="">Semua finishing</option></select>
+  </div>
+</header>
+
+<div class="layout">
+  <nav id="tree" class="tree" aria-label="Kategori"></nav>
+  <main>
+    <div class="crumbs"><span id="crumb">Semua produk</span> · <span id="count"></span></div>
+    <div id="grid" class="grid"></div>
+    <p id="empty" class="empty" hidden>Tidak ada produk yang cocok.</p>
+  </main>
+</div>
+
+<dialog id="detail">
+  <div class="detail">
+    <button class="close" id="close" aria-label="Tutup">×</button>
+    <section class="preview">
+      <div class="toggle" role="tablist">
+        <button data-mode="single" class="on">Satu keping</button>
+        <button data-mode="tile">Pola 3×3</button>
+      </div>
+      <div id="stage" class="stage"></div>
+      <p id="tile-note" class="hint"></p>
+    </section>
+    <section class="info" id="info"></section>
+  </div>
+</dialog>
+
+<script src="catalog.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
