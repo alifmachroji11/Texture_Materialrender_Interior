@@ -1,0 +1,54 @@
+{
+  "id": "gen-grn-002",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Speckle",
+  "kode": "GEN-GRN-002",
+  "nama": "Granit Speckle Hitam",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Polished",
+  "warna": "Hitam",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/speckle/gen-grn-002/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 3119876,
+      "sha256": "90f5f84834f2af7f5678ffad1a9df4dea9ce4cb9d3365de2fae6633377b4be5a",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/speckle/gen-grn-002/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 3313502,
+      "sha256": "b58703d74649193a4fce731f5cce553b4122d6df7064084ed042c1bd98e37662",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/speckle/gen-grn-002/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 244612,
+      "sha256": "5b1ee1772dc85b6799f91ff65dd215c41a06fbfb811f11dd755f120d15181a22",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-grn-002.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1001"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}

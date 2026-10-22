@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt602216r",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Alaska",
+  "kode": "GEN-RMN-GT602216R",
+  "nama": "Granit mirip Alaska Night",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60.0,
+    "h": 60.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Gloss on matt",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/alaska/gen-rmn-gt602216r/albedo.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 3146280,
+      "sha256": "8a0f66f17ce325f29e00916d407cf48a2585e8c9a87ad1c4ca385be7cf2e37a7",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/alaska/gen-rmn-gt602216r/normal.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 4238903,
+      "sha256": "a74445b5fe182983d5402fc95cb1296e6ec7754479a6b9ceabab1cdd73336107",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/alaska/gen-rmn-gt602216r/roughness.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 546268,
+      "sha256": "8948b093ca25f439eac1fb4075cdb974d2363740094ceab42b7dddc1c549534c",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.3,
+  "thumb": "thumbs/gen-rmn-gt602216r.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "Alaska",
+    "kode": "GT602216R",
+    "nama": "Alaska Night",
+    "ukuran_produk": "60x60 cm",
+    "finishing": "Gloss on matt",
+    "url": "https://roman.co.id/id/collection/romangranit/Alaska/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.25,
+    "selisih_spektrum_log10": 0.13,
+    "korelasi_maks": 0.031
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

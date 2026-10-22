@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt1002559r",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dMinerva",
+  "kode": "GEN-RMN-GT1002559R",
+  "nama": "Granit mirip dMinerva Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 100.0,
+    "h": 100.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Matt",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dminerva/gen-rmn-gt1002559r/albedo.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 4303461,
+      "sha256": "43ca3e69509c7efe75ab9d6d316bd58ff4bce27551e40cd5cb69aff57517ebdf",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dminerva/gen-rmn-gt1002559r/normal.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 10208517,
+      "sha256": "098188ecbc06ffb9cc3ef153fb8e42d6025e9582cc4c3d5eac3906f447ae7ef2",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dminerva/gen-rmn-gt1002559r/roughness.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 1125570,
+      "sha256": "8d884b01702be5a92157d743e7b4a2bf8dd2dc88ecf5d11dd75a6b84cc5cb6da",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.55,
+  "thumb": "thumbs/gen-rmn-gt1002559r.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dMinerva",
+    "kode": "GT1002559R",
+    "nama": "dMinerva Grey",
+    "ukuran_produk": "100x100 cm",
+    "finishing": "Matt",
+    "url": "https://roman.co.id/id/collection/romangranit/dminerva/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.02,
+    "selisih_spektrum_log10": 0.074,
+    "korelasi_maks": 0.106
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

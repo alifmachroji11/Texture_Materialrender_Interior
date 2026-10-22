@@ -1,0 +1,73 @@
+{
+  "id": "gen-tco-th7207fc",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Pattern",
+  "kode": "GEN-TCO-TH7207FC",
+  "nama": "HPL mirip Cream Weave",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "ukuran_fisik_perkiraan": true,
+  "finishing": null,
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/pattern/gen-tco-th7207fc/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 9115325,
+      "sha256": "11915f942643dfc9e044d64eb1888e22f13df65ae78f7cf12284e03862913bc4",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/pattern/gen-tco-th7207fc/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 7405336,
+      "sha256": "177e6f66da1ac1cf1e36d57b16da2ae50279c8bc91fe507693392cf508b2a727",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/pattern/gen-tco-th7207fc/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 837075,
+      "sha256": "a46046c82468592c42656bbab326db2fceb8c1ca4dd2123c3ad8df0afe9acbc6",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.45,
+  "thumb": "thumbs/gen-tco-th7207fc.webp",
+  "referensi": {
+    "merek": "TACO",
+    "seri": "Pattern",
+    "kode": "TH 7207 FC",
+    "nama": "Cream Weave",
+    "ukuran_produk": "1220 mm x 2440 mm",
+    "finishing": null,
+    "url": "https://taco.co.id/en/products/laminates/pattern/taco-hpl/th-7207-fc",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.09,
+    "selisih_spektrum_log10": 0.069,
+    "korelasi_maks": 0.15
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Skala motif diperkirakan dari shade card TACO; cek ulang ukuran serat.",
+  "dibuat": "2026-10-22"
+}

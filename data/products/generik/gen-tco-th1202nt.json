@@ -1,0 +1,73 @@
+{
+  "id": "gen-tco-th1202nt",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "HPL",
+  "merek": "Generik",
+  "seri": "Woodgrain",
+  "kode": "GEN-TCO-TH1202NT",
+  "nama": "HPL mirip Auckland Oak",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "ukuran_fisik_perkiraan": true,
+  "finishing": null,
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th1202nt/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 5429690,
+      "sha256": "0ac19dd311a33e3af05f1c654271f41706a1acc257269fec98dea9f2b73065ab",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th1202nt/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 5849271,
+      "sha256": "8267172c0573a7b5d5122bbe97622b9095be7e301dd4b0f0dd626b3b62ce95aa",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/hpl/generik/woodgrain/gen-tco-th1202nt/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 497597,
+      "sha256": "88892b59618e06c4702f41372894c4bcf2c34b8abeb3e88b2a211a706436eb47",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.45,
+  "thumb": "thumbs/gen-tco-th1202nt.webp",
+  "referensi": {
+    "merek": "TACO",
+    "seri": "Woodgrain",
+    "kode": "TH 1202 NT",
+    "nama": "Auckland Oak",
+    "ukuran_produk": "1220 mm x 2440 mm",
+    "finishing": null,
+    "url": "https://taco.co.id/en/products/laminates/woodgrain/taco-hpl/th-1202-nt",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.02,
+    "selisih_spektrum_log10": 0.08,
+    "korelasi_maks": 0.049
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Skala motif diperkirakan dari shade card TACO; cek ulang ukuran serat.",
+  "dibuat": "2026-10-22"
+}

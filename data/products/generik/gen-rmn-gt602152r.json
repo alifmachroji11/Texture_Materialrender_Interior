@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt602152r",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dArlington",
+  "kode": "GEN-RMN-GT602152R",
+  "nama": "Granit mirip dArlington Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60.0,
+    "h": 60.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Matt",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/darlington/gen-rmn-gt602152r/albedo.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 2695419,
+      "sha256": "705b51188557d5799f55acf828725e60c2b26444230953c6c25c5735f3948f5a",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/darlington/gen-rmn-gt602152r/normal.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 4380951,
+      "sha256": "103f6a663d38a39be898d4d163b04aa7bbeb2163b627b2c86af5cf837ad86a16",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/darlington/gen-rmn-gt602152r/roughness.png",
+      "px_w": 1440,
+      "px_h": 1440,
+      "bytes": 552907,
+      "sha256": "ccb8f849d96170d7fc4b1def444454c6da07edf44a8fddca8e062092f74559cc",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.55,
+  "thumb": "thumbs/gen-rmn-gt602152r.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dArlington",
+    "kode": "GT602152R",
+    "nama": "dArlington Grey",
+    "ukuran_produk": "60x60 cm",
+    "finishing": "Matt",
+    "url": "https://roman.co.id/id/collection/romangranit/darlington/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.07,
+    "selisih_spektrum_log10": 0.088,
+    "korelasi_maks": 0.015
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

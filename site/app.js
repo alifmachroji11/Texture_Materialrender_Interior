@@ -20,6 +20,7 @@
   };
   const fileName = (d, map) => `${d.kode}_${map}.png`.replace(/\s+/g, "-");
   const NO_REF = "Tanpa referensi";
+  const IS_FILE = location.protocol === "file:"; // atribut download diabaikan browser untuk file://
   const refBrand = (d) => (d.referensi && d.referensi.merek) || NO_REF;
 
   // ---------- filter ----------
@@ -136,7 +137,7 @@
         <div class="row">
           <div><strong>${esc(MAP_LABEL[name] || name)}</strong><br>
             <span class="mono">${m.px_w}×${m.px_h} px · ${fmtBytes(m.bytes)} · PNG</span></div>
-          <a class="btn primary" href="${esc(ROOT + m.path)}" download="${esc(fileName(d, name))}">Unduh</a>
+          <a class="btn primary" href="${esc(ROOT + m.path)}" download="${esc(fileName(d, name))}"${IS_FILE ? ' target="_blank" rel="noopener"' : ""}>Unduh</a>
         </div>
         <div class="hash mono">SHA-256 ${esc(m.sha256)}</div>
       </div>`).join("");
@@ -183,6 +184,7 @@
       ${refBlock}
       ${simBlock}
       <h3>Unduh (resolusi asli)</h3>
+      ${IS_FILE ? '<p class="hint">Situs dibuka langsung dari file, jadi browser membuka gambar di tab baru, bukan mengunduhnya. Simpan dengan Ctrl+S atau klik kanan › Save image as; file tetap resolusi asli. Supaya tombol langsung mengunduh, jalankan <code>python -m http.server 8000</code> di folder repo lalu buka http://localhost:8000/site/.</p>' : ""}
       <div class="maps">${maps}</div>
       ${d.catatan ? `<h3>Catatan</h3><div class="note">${esc(d.catatan)}</div>` : ""}
       <h3>Pemakaian</h3>

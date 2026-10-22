@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt1269479fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dAlabaster",
+  "kode": "GEN-RMN-GT1269479FR",
+  "nama": "Granit mirip dAlabaster Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 120.0,
+    "h": 60.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dalabaster/gen-rmn-gt1269479fr/albedo.png",
+      "px_w": 2880,
+      "px_h": 1440,
+      "bytes": 5766870,
+      "sha256": "3ebb8cd115c0bc17b95fdfca011bac195fed0fdcc570009b6348f6d34aacd1f7",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dalabaster/gen-rmn-gt1269479fr/normal.png",
+      "px_w": 2880,
+      "px_h": 1440,
+      "bytes": 7542669,
+      "sha256": "8fa8257b47df916438cb9833f238a1f29e2c3d5e2243219f01d32438d2c94262",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dalabaster/gen-rmn-gt1269479fr/roughness.png",
+      "px_w": 2880,
+      "px_h": 1440,
+      "bytes": 1086669,
+      "sha256": "1c877ee129e25950d178bee13f8059e7fa582452479b1e2e7c3921ba74d958e3",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt1269479fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dAlabaster",
+    "kode": "GT1269479FR",
+    "nama": "dAlabaster Grey",
+    "ukuran_produk": "120x60 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/dalabaster/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.24,
+    "selisih_spektrum_log10": 0.179,
+    "korelasi_maks": 0.107
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

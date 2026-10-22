@@ -1,0 +1,73 @@
+{
+  "id": "gen-rmn-gt1009751fr",
+  "source_type": "generic",
+  "subtipe": "mirip_produk",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "dLuxembourg",
+  "kode": "GEN-RMN-GT1009751FR",
+  "nama": "Granit mirip dLuxembourg Grey",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 100.0,
+    "h": 100.0
+  },
+  "ukuran_fisik_perkiraan": false,
+  "finishing": "Polished Glossy",
+  "warna": null,
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/dluxembourg/gen-rmn-gt1009751fr/albedo.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 3889361,
+      "sha256": "aae4d0d694fc56d82455ba7a5d83d1fd7cd3415c775f73ab3ecd6519485eae36",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/dluxembourg/gen-rmn-gt1009751fr/normal.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 9369666,
+      "sha256": "cd93e3ba5f14768a0872b684d63ca2214cb72c5910ff042a60f2f43df79e10f8",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/dluxembourg/gen-rmn-gt1009751fr/roughness.png",
+      "px_w": 2400,
+      "px_h": 2400,
+      "bytes": 1266316,
+      "sha256": "99ed3370af769eca2b53f419ee8925cba1e43368c9fa44e70f53b1927f901a9a",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "roughness_dasar": 0.06,
+  "thumb": "thumbs/gen-rmn-gt1009751fr.webp",
+  "referensi": {
+    "merek": "Roman",
+    "seri": "dLuxembourg",
+    "kode": "GT1009751FR",
+    "nama": "dLuxembourg Grey",
+    "ukuran_produk": "100x100 cm",
+    "finishing": "Polished Glossy",
+    "url": "https://roman.co.id/id/collection/romangranit/dluxembourg-100x100/",
+    "diakses_tanggal": "2026-10-22"
+  },
+  "metode": "spectral",
+  "skor_kemiripan": {
+    "delta_e_rata2": 0.0,
+    "selisih_kontras": 0.08,
+    "selisih_spektrum_log10": 0.092,
+    "korelasi_maks": 0.052
+  },
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Sintesis tools/gen_matched.py (spectral) dari analisis referensi"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan sendiri yang dibuat mirip produk referensi (warna, ukuran butir/serat, arah motif). Bukan foto dan bukan produk asli; pola tidak identik. Cek sampel fisik sebelum spesifikasi. Dibuat seamless (tanpa nat); tambahkan nat sendiri di model.",
+  "dibuat": "2026-10-22"
+}

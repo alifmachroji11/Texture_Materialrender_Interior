@@ -1,0 +1,54 @@
+{
+  "id": "gen-grn-005",
+  "source_type": "generic",
+  "subtipe": "murni",
+  "kategori": "Granit",
+  "merek": "Generik",
+  "seri": "Marble Look",
+  "kode": "GEN-GRN-005",
+  "nama": "Granit Motif Marmer Hitam Urat Emas",
+  "ukuran_produk": null,
+  "ukuran_fisik_cm": {
+    "w": 60,
+    "h": 60
+  },
+  "finishing": "Polished",
+  "warna": "Hitam",
+  "tileable": true,
+  "maps": {
+    "albedo": {
+      "path": "textures/granit/generik/marble-look/gen-grn-005/albedo.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 2295016,
+      "sha256": "1a4520b4f97891917091bb04615b8133f42b32c0315873080555ea73dbe1302d",
+      "format_asli": "PNG"
+    },
+    "normal": {
+      "path": "textures/granit/generik/marble-look/gen-grn-005/normal.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 218591,
+      "sha256": "b673b0824d036a2e557faf9b231beaad4b155ffabe3e01b670308f6d46d67cd8",
+      "format_asli": "PNG"
+    },
+    "roughness": {
+      "path": "textures/granit/generik/marble-look/gen-grn-005/roughness.png",
+      "px_w": 2048,
+      "px_h": 2048,
+      "bytes": 111229,
+      "sha256": "60ec0857a88d2fbcfc655410da4d026b7b69cfdb55192b2bdf7cc3a005b819de",
+      "format_asli": "PNG"
+    }
+  },
+  "normal_convention": "OpenGL (Y+)",
+  "thumb": "thumbs/gen-grn-005.webp",
+  "sumber": {
+    "url": null,
+    "diakses_tanggal": null,
+    "keterangan": "Prosedural, tools/gen_generic.py, seed 1004"
+  },
+  "kode_terverifikasi": false,
+  "catatan": "Tekstur generik buatan prosedural, bukan foto/produk merek apa pun.",
+  "dibuat": "2026-10-22"
+}
